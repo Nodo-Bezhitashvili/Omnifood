@@ -5,3 +5,4 @@ Experience the ease of navigating OmniFood across various devices, be it your de
 
 Intuitively Crafted User Interface:
 Immerse yourself in an intuitive user interface designed to simplify your culinary journey. With OmniFood, finding the perfect meal to fit your dietary preferences and health goals is a breeze. 
+https://nodo-bezhitashvili.github.io/Omnifood
